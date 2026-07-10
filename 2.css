@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+}
+
+#bb {
+    width: 150px;
+    height: 150px;
+    border: 5px solid red;
+margin: 0 auto;
+}
+
+#dd{
+    margin-bottom: 10px;
+}
